@@ -1,0 +1,101 @@
+/* MainSection.js Component */
+.customHeading  {
+    z-index: 1;
+    
+}
+.customHeading > h1  {
+    font-size: 4rem;
+    color: aliceblue;
+}
+.customHeading > h2  {
+    font-size: 1.5rem;
+        width: 50%;
+    margin-left: 18rem;
+    color: aliceblue;
+}
+.customButton {
+    padding:0 3rem !important;
+}
+
+/* SearchDropDown.js Component */
+.customSearchDropDown {
+    position: absolute;
+    padding: .5rem 2.3rem !important;
+    width: 97.3%;
+    border-radius: 0 !important;
+    z-index: 2000;
+    /* box-shadow: 0 2px 3px rgba(10,10,10,.1), 0 0 0 1px rgba(10,10,10,.1) !important; */
+}
+.customSearchDropDown:hover {
+    background-color: #E5EAEC;
+    cursor: pointer;
+}
+.customSearchIcon {
+    margin-left: 0 !important;
+    color: #0000008a !important;
+}
+.customPhotos {
+    top: 2.8rem;
+}
+/* .customPeople {
+    top: 5.3rem;
+} */
+.customGroups {
+    /* top: 7.8rem; */
+    top: 5.3rem;
+}
+.customSearchBox {
+    margin-bottom: .1rem !important;
+}
+
+/* afterSearchNavBar.js Component */
+.customAfterSearchNavBar {
+    background:rgba(0,0,0,1) !important;
+}
+
+/* tabNavBar.js Component */
+
+.customTabBox {
+    padding: 0 !important;
+    padding-left: 9rem !important;
+}
+.customBorderTab > a{
+    border-bottom-width: 0px !important;
+}
+.is-active.customBorderPhoto > a{
+    border-bottom-width: 2.5px !important;
+}
+.is-active.customBorderPeople > a{
+    border-bottom-width: 2.5px !important;
+}
+.is-active.customBorderGroups > a{
+    border-bottom-width: 2.5px !important;
+}
+
+/* SearchBar.js Component */
+.customSearchWidthInc {
+    width: 400px !important;
+}
+
+/* GroupIconList.js Component */
+.customFooterIcon {
+    padding-top: 1rem;
+    justify-content: space-evenly;
+}
+.customFooterIcon > .hero {
+    flex-basis: 18%;
+    flex-direction: row;
+}
+.customGroupCard {
+    padding: 1rem !important;
+}
+.customGroupCard > .content {
+    margin-bottom: .3rem !important;
+}
+.customCardImage > img{
+    border-radius: 100px;
+}
+
+.customUserName > p{
+    font-size: 1rem !important;
+}

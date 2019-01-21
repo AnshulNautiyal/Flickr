@@ -1,0 +1,19 @@
+.customNavbar {
+    padding: .4rem;
+    opacity: .7;
+    background:rgba(0,0,0,.75) !important;
+}
+
+.customSearchBar {
+    margin: auto;
+    flex-basis: 70%;
+    
+}
+input {
+    border-radius: 0px !important;
+}
+
+.customIconPlaceInput {
+    top: 8px !important; 
+    left: 10px !important;
+}
