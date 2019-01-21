@@ -4,9 +4,6 @@
     <img alt="Gatsby" src="https://cdn.freebiesupply.com/images/large/2x/flickr-logo-black-transparent.png" width="120" />
   </a>
 </p>
-<h1 align="center">
-  FLICKR
-</h1>
 
 ## 🚀 Quick start
 
